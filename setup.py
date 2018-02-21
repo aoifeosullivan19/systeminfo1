@@ -2,15 +2,15 @@
 
 from distutils.core import setup
 setup(
-    name='cookiecutter-pypackage',
-    packages=[],
+    name='systeminfo',
+    packages=['systeminfo'],
     version='0.1.0',
-    description='Cookiecutter template for a Python package',
-    author='Audrey Roy Greenfeld',
-    license='BSD',
-    author_email='aroy@alum.mit.edu',
+    description='Basic system information for COMP30670',
+    author='Aoife O Sullivan',
+    license='GPL3',
+    author_email='aoifeosullivan19@gmail.com',
     url='https://github.com/audreyr/cookiecutter-pypackage',
-    keywords=['cookiecutter', 'template', 'package', ],
+    keywords=['cookiecutter', 'systeminfo', 'package', ],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Console',
