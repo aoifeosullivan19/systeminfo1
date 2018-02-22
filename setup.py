@@ -3,7 +3,7 @@
 from distutils.core import setup
 setup(
     name='systeminfo',
-    packages='systeminfo'
+    packages='systeminfo',
     version='0.1.0',
     description='Basic system information for COMP30670',
     author='Aoife O Sullivan',
