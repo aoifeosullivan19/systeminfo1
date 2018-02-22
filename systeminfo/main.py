@@ -7,4 +7,4 @@ def get_platform():
 	print ('total, used, free: ', total, used, free)
 	return
 if __name__ == '__main__':
-	main()
+	get_platform()
